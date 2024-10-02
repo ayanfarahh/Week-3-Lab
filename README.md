@@ -13,3 +13,23 @@
 - [GitHub](https://github.com)
 - [W3Schools](https://www.w3schools.com)
 - [CSS-Tricks](https://css-tricks.com)
+## Keyboard shortcuts
+Shortcuts I frequently use:
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
+
+Shortcuts I would like to start using:
+- Ctrl-A (select all)
+- Alt-Tab (switch between open apps)
+- Ctrl-Shift-T (reopen closed tab)
+After adding this, save the file.
+
+
+
+
+
+
+
+
+
